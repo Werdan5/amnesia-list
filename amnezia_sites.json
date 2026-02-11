@@ -1,86 +1,90 @@
 [
     {
-        "hostname": "avito.ru",
-        "ip": "176.114.124.24"
-    },
-    {
-        "hostname": "bitwarden.com",
-        "ip": "151.101.129.91"
-    },
-    {
-        "hostname": "edumsko.ru",
-        "ip": "51.250.54.24"
-    },
-    {
-        "hostname": "egais.ru",
-        "ip": "212.164.137.22"
-    },
-    {
-        "hostname": "emias.info",
-        "ip": "82.202.189.136"
-    },
-    {
-        "hostname": "emias.ru",
-        "ip": "82.202.189.136"
-    },
-    {
         "hostname": "gosuslugi.ru",
         "ip": "213.59.254.7"
     },
     {
-        "hostname": "gov.ru",
-        "ip": "95.173.128.89"
+        "hostname": "esia.gosuslugi.ru",
+        "ip": "109.207.1.118"
     },
     {
-        "hostname": "lemanapro.ru",
-        "ip": "185.65.151.100"
+        "hostname": "lk.gosuslugi.ru",
+        "ip": "109.207.1.97"
     },
     {
-        "hostname": "mos.ru",
-        "ip": "94.79.51.170"
-    },
-    {
-        "hostname": "my.mos.ru",
-        "ip": "212.11.151.57"
-    },
-    {
-        "hostname": "myfin.by",
-        "ip": "95.130.85.164"
+        "hostname": "gu.spb.ru",
+        "ip": "195.131.200.165"
     },
     {
         "hostname": "nalog.ru",
         "ip": "37.220.164.100"
     },
     {
-        "hostname": "nix.ru",
-        "ip": "91.233.230.52"
+        "hostname": "lkfl2.nalog.ru",
+        "ip": "81.177.100.100"
+    },
+    {
+        "hostname": "sberbank.ru",
+        "ip": "84.252.149.206"
+    },
+    {
+        "hostname": "online.sberbank.ru",
+        "ip": "194.54.14.168"
+    },
+    {
+        "hostname": "vtb.ru",
+        "ip": "185.179.144.1"
+    },
+    {
+        "hostname": "online.vtb.ru",
+        "ip": "185.179.144.43"
+    },
+    {
+        "hostname": "gazprombank.ru",
+        "ip": "91.203.192.35"
+    },
+    {
+        "hostname": "tbank.ru",
+        "ip": "91.194.226.1"
+    },
+    {
+        "hostname": "alfabank.ru",
+        "ip": "217.12.104.100"
+    },
+    {
+        "hostname": "ozon.ru",
+        "ip": "185.73.193.68"
+    },
+    {
+        "hostname": "wildberries.ru",
+        "ip": "185.234.252.17"
     },
     {
         "hostname": "rzd.ru",
-        "ip": "212.164.138.122"
+        "ip": "217.175.144.137"
     },
     {
-        "hostname": "sibmama.ru",
-        "ip": "46.61.143.6"
+        "hostname": "ticket.rzd.ru",
+        "ip": "217.175.144.140"
     },
     {
-        "hostname": "www.gosuslugi.ru",
-        "ip": "109.207.1.118"
+        "hostname": "aeroflot.ru",
+        "ip": "80.92.32.1"
     },
     {
-        "hostname": "www.invitro.ru",
-        "ip": "185.129.103.93"
+        "hostname": "pochta.ru",
+        "ip": "91.215.36.1"
     },
     {
-        "hostname": "www.mos.ru",
-        "ip": "94.79.51.170"
+        "hostname": "kinopoisk.ru",
+        "ip": "87.250.250.242"
     },
     {
-        "hostname": "www.pochta.ru",
-        "ip": "212.164.140.129"
+        "hostname": "matchtv.ru",
+        "ip": "185.71.66.11"
     },
     {
-        "hostname": "my.mos.ru",
-        "ip": "212.11.151.56"
+        "hostname": "avito.ru",
+        "ip": "185.147.80.34"
     }
 ]
